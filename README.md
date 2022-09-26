@@ -13,6 +13,7 @@ Amount the Borrower APR was less.
 There was a positive correlation between the Stated Monthly Income and the Loan Original 
 Amount which was indicated by an increased Monthly income contributed to a Loan original 
 amount.<br>
+
 Most of the loans have a duration 36 months and large number of borrower are employed. 
 There is a slight interaction on the Prosper Rating. There was an interesting relationship 
 between the Borrower Annual Percentage Rate and the Prosper Rating. While the Borrower 
@@ -26,6 +27,7 @@ Annual Percentage Rate. These loan features are the Loan Original Amount, Stated
 Income and Borrower APR which are all numerical variables. Other categorical features are the 
 Loan term, Prosper Rating and the Employment and how these features affect the Borrower 
 APR.<br>
+
 Afterwards, plotting the distribution of each feature, I explored the relationship between the 
 Numerical and the categorical variables. I then displayed the relationship between the Loan 
 Original Amount and the Borrower APR. I have made sure to explore how the employment 
